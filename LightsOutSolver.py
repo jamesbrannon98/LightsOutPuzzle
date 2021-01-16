@@ -1,7 +1,5 @@
-import math
 import random
 import copy
-from collections import OrderedDict
 
 class LightsOutPuzzle(object):
 
