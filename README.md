@@ -7,7 +7,7 @@ A one-person game played on a rectangular lattice of lamps which can be turned o
 
 Additionally, included is a GUI for the lights out puzzle. The GUI opens with a solved puzzle, meaning all lights are off. Pressing the scramble button generates a puzzle, which the user can either solve on their own or press the solve button to allow the AI to solve the puzzle. In order to open the GUI, navigate to the location of the files from the command line and enter:
 
-python LightsOutGUI.py rows cols
+`python LightsOutGUI.py rows cols`
 
 where rows and cols are numbers indicating the number of rows and columns for the puzzle.
 
