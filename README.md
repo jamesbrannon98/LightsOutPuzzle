@@ -1,6 +1,6 @@
 # LightsOutPuzzle
 
-This is a Python AI designed to solve any iteration of the lights out puzzle.
+This is a Python AI designed to solve any iteration of the lights out puzzle using a breadth-first graph search.
 
 The lights out puzzle is defined as follows:
 A one-person game played on a rectangular lattice of lamps which can be turned on and off. A move consists of flipping a "switch" inside one of the squares, thereby toggling the on/off state of this and all four vertically and horizontally adjacent squares. Starting from a randomly chosen light pattern, the aim is to turn all the lamps off.
